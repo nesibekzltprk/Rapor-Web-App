@@ -3,7 +3,7 @@
 Bu proje, farklı rapor türlerine (Finans, Lojistik, Üretim, Cari) göre veri filtreleme, tablo ve grafik gösterimi gibi özellikler sunan bir **raporlama panelidir**.  
 ASP.NET Core MVC, SQL Server ve JavaScript teknolojileri kullanılarak geliştirilmiştir.
 
----
+
 
 ## 🚀 Özellikler
 
@@ -15,7 +15,7 @@ ASP.NET Core MVC, SQL Server ve JavaScript teknolojileri kullanılarak geliştir
 - ✅ **KPI kutucukları ile özet bilgiler**
 - ✅ **ApexCharts ile grafik gösterimi**
 
----
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -28,7 +28,7 @@ ASP.NET Core MVC, SQL Server ve JavaScript teknolojileri kullanılarak geliştir
 - xlsx (Excel aktarımı için)
 - Newtonsoft.Json
 
----
+
 
 
 ## 💾 Taslak Kaydetme Özelliği
@@ -41,7 +41,7 @@ kaydederek daha sonra tekrar kullanabilecekleri rapor taslakları oluşturabilir
 
 Tüm taslaklar veritabanında `RaporTaslak` tablosunda saklanır.
 
----
+
 
 ## 📦 Projeyi Çalıştırma
 
@@ -50,7 +50,7 @@ Tüm taslaklar veritabanında `RaporTaslak` tablosunda saklanır.
 3. Visual Studio ile projeyi çalıştırın.
 4. Uygulama otomatik olarak `Index.cshtml` üzerinden rapor panelini açacaktır.
 
----
+
 
 ## 📁 Örnek Stored Procedure
 
